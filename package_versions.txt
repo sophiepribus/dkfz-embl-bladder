@@ -1,0 +1,2 @@
+R (v4.2.2): dplyr (v1.1.0), ggplot2 (v3.5.2), tibble (v3.1.8), tidyr (v1.3.0), stats (v4.2.2), DESeq2 (v1.38.3), scales (v1.4.0), DNAcopy (v1.72.3), reshape2 (v1.4.4), grid (v4.2.2), gridExtra (v2.3), cowplot (v1.2.0).
+python (v3.10.9): pandas (v1.5.3), matplotlib (v3.7.0), numpy (v1.23.5), gseapy (v1.1.9), scikit-learn (v1.2.1), scipy (v1.10.1), seaborn (v0.12.2), pysam (v0.23.3).
